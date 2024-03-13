@@ -1,4 +1,4 @@
-<img width="364" alt="Screenshot 2024-03-12 at 6 44 31 PM" src="https://github.com/peterheung/Bellabeat-Data-Analysis-Case-Study/assets/163231245/dc7eeee1-ae19-44b0-a7cb-a58ca517771f"># Bellabeat-Data-Analysis-Case-Study
+# Bellabeat-Data-Analysis-Case-Study
 
 # Background
 Bellabeat is a high-tech manufacturer of health-focused products for women, and meet different characters and team members.
